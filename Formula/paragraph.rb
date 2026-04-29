@@ -1,8 +1,8 @@
 class Paragraph < Formula
   desc "CLI for Paragraph — manage posts, subscribers, and publications"
   homepage "https://github.com/paragraph-xyz/paragraph-cli"
-  url "https://github.com/paragraph-xyz/paragraph-cli/releases/download/v0.1.1/paragraph-cli-v0.1.1.tgz"
-  sha256 "8d4f93f16a3ac2c723def79ae5bcb1b85ff68982746ee8b0d0dd83135a925729"
+  url "https://github.com/paragraph-xyz/paragraph-cli/releases/download/v0.2.0/paragraph-cli-v0.2.0.tgz"
+  sha256 "bfcc1c5bd3e85e78e02817cfa0f668cd6b29b10334f04c47f868d38dfe2fe9ad"
   license "MIT"
 
   depends_on "node"
